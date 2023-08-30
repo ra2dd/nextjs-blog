@@ -1,1 +1,1 @@
-# This is a blog app made with starter template.
+# This is a blog app made with Next.js and a starter template.
